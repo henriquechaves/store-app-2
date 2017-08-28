@@ -1,0 +1,59 @@
+.filtersWrapper {
+  border-width: 2px;
+  border-color: #0275d8;
+}
+
+btn:hover {
+  text-decoration: none;
+}
+
+btn {
+  text-decoration: none;
+}
+
+.btnToogle:hover {
+  color: #0275d8;
+}
+
+.inputText {
+
+}
+
+.filtersLabel {
+  display: block;
+  vertical-align: middle;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.filtersCheck {
+  display: block;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+
+.filtersSelect {
+  display: block;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+
+.filtersForm {
+  padding: 10px;
+  background-color: #FFF;
+  border-width: 2px;
+  border-color: #0275d8;
+}
+
+.inputArea{
+  background-color: #0275d8;
+}
+
+.btnSearch:hover {
+  background-color: #f0ad4e !important;
+  border-color: #f0ad4e !important;
+}
+
+.filtersBtnClear {
+  margin-left: 5px !important;
+}

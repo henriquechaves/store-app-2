@@ -1,0 +1,32 @@
+.searchInfo {
+  background-color: #f0ad4e;
+  color: white;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-bottom: 5px;
+}
+
+.searchRow {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.btnClear {
+  background-color: #f0ad4e;
+  color: white;
+  padding: 0px !important;
+  margin: 0px !important;
+  font-weight: bold !important;
+}
+
+.btnClear:hover {
+  color: #0275d8;
+}
+
+.reporterBackground {
+  background-color: white;
+}
+
+.reporter {
+  margin-top: 10px !important;
+}

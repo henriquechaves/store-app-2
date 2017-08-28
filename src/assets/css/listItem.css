@@ -1,0 +1,17 @@
+.onOverLine:hover {
+  background-color: #FFCC99;
+}
+
+.evenLine {
+  background-color: #CCC;
+}
+
+.oddLine {
+  background-color: #FFF;
+}
+
+.desc {
+  width: 25em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

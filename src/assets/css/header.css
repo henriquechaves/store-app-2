@@ -1,0 +1,25 @@
+.navbarHeader {
+  margin: 0 !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  opacity: .95;
+  min-height: 45px;
+}
+
+.navbarBrandHeader {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.navbarTitle {
+  vertical-align: middle;
+}
+
+.navColor {
+  background-color: #006600;
+}
+
+.navLink {
+  color: #FFCC00;
+  text-decoration: none;
+}
